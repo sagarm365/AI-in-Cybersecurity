@@ -11,4 +11,4 @@ Here are the 5 key takeaways that tell us how artificial intelligence in cyberse
 <p>4. Artificial intelligence in cybersecurity will increase the demand for skilled professionals who can handle and manage AI systems in the cybersecurity domain.
 <p>5. The demand for Artificial Intelligence in cybersecurity has doubled in recent years. Thus, cybersecurity professionals should explore more cases of AI use in the field.
 
-<img src="benefits-of-automating-ai-in-cybersecurity.png" width="500" height="600">
+<img src="benefits-of-automating-ai-in-cybersecurity.png" width="800" height="450">
